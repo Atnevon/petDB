@@ -30,6 +30,10 @@ gem 'devise'
 
 gem 'starter_generators'
 
+gem 'activeadmin', github: 'activeadmin'
+
+
+
 # Use Unicorn as the app server
 # gem 'unicorn'
 
